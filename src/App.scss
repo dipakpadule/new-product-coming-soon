@@ -94,6 +94,7 @@ $bold:600;
 @media (min-width:85.375rem) and (max-width:90rem){
   body{
     background: url(./images/bg-pattern-desktop.svg);
+    overflow: hidden;
   }
   .coming-soon{
     width: 75rem;
